@@ -7,15 +7,17 @@
 ![hanif0209 GitHub stats](https://github-readme-stats.vercel.app/api?username=hanif0209&show_icons=true&count_private=true&theme=radical)
 )
 <br/> -->
-
+<br/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hanif0209&show_icons=true&theme=gotham" alt="hanif0209" />
+<br><br>
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<br><br>
 <a href="https://www.linkedin.com/in/hanif-aulia-sabri-030833210/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br/><br>
-  <img  alt="GIF" src="https://github.com/hanif0209/hanif0209/blob/main/39610-design.gif" width="500" height="220" />
+  <img  alt="GIF" align="right" src="https://github.com/hanif0209/hanif0209/blob/main/73171-manprogramming456223.gif" />
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
 
@@ -30,8 +32,7 @@ hi, i'm Hanif
 - 💬 ask me about anything, i am happy to help;
 
 
-<br/>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hanif0209&show_icons=true&theme=gotham" alt="hanif0209" />
+
 
 
 **languages and tools:**  
