@@ -14,17 +14,25 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br/><br>
+  <img  alt="GIF" src="https://github.com/hanif0209/hanif0209/blob/main/39610-design.gif" width="500" height="220" />
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
 
 <br />
-<!-- 
-hi, i'm Hanif Aulia Sabri, a full stack developer and a freelance software engineer from Indonesia. My passion for software is in dreaming ideas and making them happen with an elegant interface.
 
-  <img align="right" alt="GIF" src="https://github.com/hanif0209/hanif0209/blob/main/39610-design.gif" width="400" height="220" />
+
+
+hi, i'm Hanif
+
   
 - 💼 any freelance work? do reach, [email](mailto:hanifauliasabriii@gmail.com) :)
-- 💬 ask me about anything, i am happy to help; -->
+- 💬 ask me about anything, i am happy to help;
+
+
+<br/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hanif0209&show_icons=true&theme=gotham" alt="hanif0209" />
+
 
 **languages and tools:**  
 
@@ -39,10 +47,6 @@ hi, i'm Hanif Aulia Sabri, a full stack developer and a freelance software engin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-
-<br/>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hanif0209&show_icons=true&theme=gotham" alt="hanif0209" />
 
 
 
