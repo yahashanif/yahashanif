@@ -1,8 +1,12 @@
 ### Hi there 👋
 ![hanif0209 GitHub stats](https://github-readme-stats.vercel.app/api?username=hanif0209&show_icons=true&count_private=true&theme=radical)
 )
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hanif0209)](https://github.com/hanif0209/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <!-- 
 **hanif0209/hanif0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
