@@ -18,13 +18,13 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
 
 <br />
-
+<!-- 
 hi, i'm Hanif Aulia Sabri, a full stack developer and a freelance software engineer from Indonesia. My passion for software is in dreaming ideas and making them happen with an elegant interface.
 
-  <img align="right" alt="GIF" src="https://github.com/hanif0209/hanif0209/blob/main/code.gif" width="400" height="220" />
+  <img align="right" alt="GIF" src="https://github.com/hanif0209/hanif0209/blob/main/39610-design.gif" width="400" height="220" />
   
 - 💼 any freelance work? do reach, [email](mailto:hanifauliasabriii@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, i am happy to help; -->
 
 **languages and tools:**  
 
