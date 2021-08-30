@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![hanif0209 GitHub stats](https://github-readme-stats.vercel.app/api?username=hanif0209&show_icons=true&count_private=true&theme=radical)
 )
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/hanif0209/github-readme-stats)
+
 <!-- 
 **hanif0209/hanif0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
