@@ -1,7 +1,6 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
-<!-- <img src="https://camo.githubusercontent.com/a94088c383b9f45eb3b0eaff2ee2e84841368b6490921867522dcb5e153ffd23/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7a616c7669616e6479722673686f775f69636f6e733d74727565267468656d653d73796e746877617665" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zalviandyr&amp;show_icons=true&amp;theme=synthwave" style="max-width:100%;">
-<!-- -->
 **hanif0209/hanif0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
